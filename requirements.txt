@@ -29,3 +29,6 @@ yolk>=0.4.3
 #nereid
 wtforms-recaptcha
 Flask-Babel
+
+#retrofix
+-e hg+https://bitbucket.org/trytonspain/python-retrofix#egg=retrofix 
