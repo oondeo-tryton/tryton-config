@@ -18,6 +18,7 @@ pydot>=1.0.28
 pyparsing>=1.5.6
 python-dateutil>=2.1
 python-ldap>=2.4.10
+python-sql>=0.1
 pytz>=2012h
 relatorio>=0.5.6
 simplejson>=2.6.2
