@@ -31,5 +31,6 @@ yolk>=0.4.3
 wtforms-recaptcha
 Flask-Babel
 
+
 #retrofix
--e hg+https://bitbucket.org/trytonspain/python-retrofix#egg=retrofix 
+-e hg+https://bitbucket.org/trytonspain/python-retrofix#egg=retrofix
