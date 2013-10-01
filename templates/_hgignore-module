@@ -1,0 +1,11 @@
+# use glob syntax.
+syntax: glob
+
+*.pyc
+*~
+.directory
+.hgignore
+
+# switch to regexp syntax.
+#syntax: regexp
+

@@ -1,0 +1,40 @@
+# use glob syntax.
+syntax: glob
+.hgignore
+.env
+*.aux
+*.BAK
+*.dvi
+*.jasper
+*.log
+*.log.*
+*.nav
+*.out
+*.pyc
+*.snm
+*.sql
+*.swo
+*.swp
+*.toc
+*.zip
+*.backup
+*.nan
+*.pid
+*~
+LICENSE
+README
+bin/
+config/
+tasks/
+build/
+include/
+lib/
+local/
+man/
+modules/
+tryton/
+trytond/
+nereid/
+
+# switch to regexp syntax.
+syntax: regexp
