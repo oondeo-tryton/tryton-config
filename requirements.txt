@@ -26,6 +26,7 @@ six>=1.2.0
 vobject>=0.8.1c
 wsgiref>=0.1.2
 yolk>=0.4.3
+barcodenumber>=0.1
 
 #nereid
 wtforms-recaptcha
