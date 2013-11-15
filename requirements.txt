@@ -30,7 +30,10 @@ barcodenumber>=0.1
 
 #nereid
 wtforms-recaptcha
+Flask>=0.10.1
 Flask-Babel
+Flask-Jsonpify
+Flask-OAuth
 
 
 #retrofix
