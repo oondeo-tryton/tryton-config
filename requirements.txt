@@ -1,3 +1,4 @@
+blinker
 Genshi>=0.6
 Jinja2>=2.6
 PyWebDAV>=0.9.8
@@ -20,6 +21,7 @@ python-dateutil>=2.1
 python-ldap>=2.4.10
 python-sql>=0.1
 pytz>=2012h
+pyusb
 relatorio>=0.5.6
 simplejson>=2.6.2
 six>=1.2.0
