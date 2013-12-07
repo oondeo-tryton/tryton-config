@@ -21,7 +21,7 @@ python-dateutil>=2.1
 python-ldap>=2.4.10
 python-sql>=0.1
 pytz>=2012h
-pyusb
+pyusb>=1.0.0b1
 relatorio>=0.5.6
 simplejson>=2.6.2
 six>=1.2.0
