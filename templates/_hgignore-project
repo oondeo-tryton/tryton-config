@@ -23,6 +23,7 @@ syntax: glob
 *~
 LICENSE
 README
+.pc/
 bin/
 config/
 tasks/
