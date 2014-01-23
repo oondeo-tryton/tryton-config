@@ -20,6 +20,7 @@ pyparsing>=1.5.6
 python-dateutil>=2.1
 python-ldap>=2.4.10
 python-sql>=0.1
+python-stdnum
 pytz>=2012h
 pyusb>=1.0.0b1
 pyserial>=2.7
