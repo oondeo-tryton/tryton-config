@@ -36,6 +36,7 @@ tryton/
 trytond/
 nereid/
 ./nereid_app/
+./.pc/
 
 # switch to regexp syntax.
 syntax: regexp
