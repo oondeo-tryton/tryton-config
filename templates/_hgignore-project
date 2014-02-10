@@ -23,6 +23,9 @@ syntax: glob
 *~
 LICENSE
 README
+./.pc/
+./nereid_app/
+./features/
 bin/
 config/
 tasks/
@@ -35,8 +38,6 @@ modules/
 tryton/
 trytond/
 nereid/
-./nereid_app/
-./.pc/
 
 # switch to regexp syntax.
 syntax: regexp

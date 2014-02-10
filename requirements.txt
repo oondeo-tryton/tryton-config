@@ -42,6 +42,8 @@ Flask-Babel
 Flask-Jsonpify
 Flask-OAuth
 
-
 #retrofix
 -e hg+https://bitbucket.org/trytonspain/python-retrofix#egg=retrofix
+
+# extra
+xlrd
