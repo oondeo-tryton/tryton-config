@@ -1,3 +1,4 @@
+blinker
 Genshi>=0.6
 Jinja2>=2.6
 PyWebDAV>=0.9.8
@@ -19,19 +20,25 @@ pyparsing>=1.5.6
 python-dateutil>=2.1
 python-ldap>=2.4.10
 python-sql>=0.2
+python-stdnum>=0.9
 pytz>=2012h
+pyusb>=1.0.0b1
+pyserial>=2.7
+PIL==1.1.7
 relatorio>=0.5.6
 simplejson>=2.6.2
 six>=1.2.0
 vobject>=0.8.1c
 wsgiref>=0.1.2
 yolk>=0.4.3
+openpyxl>=1.7.0
 barcodenumber>=0.1
 celery
 
 #nereid
 wtforms-recaptcha
 Flask-Babel
+
 
 
 #retrofix
