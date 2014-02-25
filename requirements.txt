@@ -15,7 +15,7 @@ lxml>=3.1.0
 nose>=1.2.1
 polib>=1.0.2
 psycopg2>=2.4.6
---allow-external pydot>=1.0.28
+pydot
 pyparsing>=1.5.6
 python-dateutil>=2.1
 python-ldap>=2.4.10
