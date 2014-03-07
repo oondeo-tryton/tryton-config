@@ -39,6 +39,8 @@ vatnumber
 #nereid
 wtforms-recaptcha
 Flask-Babel
+Flask-WTF>=0.9.4
+pyaml>=13.12.0
 
 
 
