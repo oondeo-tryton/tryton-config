@@ -6,7 +6,7 @@ Pygments>=1.6
 Sphinx>=1.1.3
 argparse>=1.2.1
 caldav>=0.1.12
---allow-external cdecimal>=2.3
+cdecimal>=2.3
 chardet>=2.1.1
 coverage>=3.6
 docutils>=0.10
@@ -24,7 +24,7 @@ python-stdnum>=0.9
 pytz>=2012h
 pyusb>=1.0.0b1
 pyserial>=2.7
---allow-external PIL==1.1.7
+PIL==1.1.7
 relatorio>=0.5.6
 simplejson>=2.6.2
 six>=1.2.0
