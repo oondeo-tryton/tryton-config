@@ -46,6 +46,7 @@ Flask-WTF>=0.9.4
 pyaml>=13.12.0
 
 
+python-xlrd
 
 #retrofix
 -e hg+https://bitbucket.org/trytonspain/python-retrofix#egg=retrofix
