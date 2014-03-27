@@ -26,6 +26,7 @@ pytz>=2012h
 pyusb>=1.0.0b1
 pyserial>=2.7
 --allow-unverified PIL
+--allow-external PIL
 PIL==1.1.7
 relatorio>=0.5.6
 simplejson>=2.6.2
