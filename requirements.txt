@@ -36,7 +36,6 @@ wsgiref>=0.1.2
 yolk>=0.4.3
 openpyxl>=1.7.0
 barcodenumber>=0.1
-celery
 vatnumber
 
 
