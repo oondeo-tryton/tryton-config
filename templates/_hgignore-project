@@ -38,6 +38,8 @@ modules/
 tryton/
 trytond/
 nereid/
+source-doc/
+public_data/
 
 # switch to regexp syntax.
 syntax: regexp
