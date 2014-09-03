@@ -39,6 +39,7 @@ openpyxl>=1.7.0
 barcodenumber>=0.1
 vatnumber
 mock
+html2text
 
 
 #nereid
