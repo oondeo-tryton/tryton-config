@@ -54,5 +54,5 @@ pyaml>=13.12.0
 xlrd
 
 #retrofix
--e hg+https://bitbucket.org/trytonspain/python-retrofix#egg=retrofix
--e hg+https://bitbucket.org/trytonspain/python-banknumber#egg=banknumber
+-e hg+ssh://hg@bitbucket.org/trytonspain/python-retrofix#egg=retrofix
+-e hg+ssh://hg@bitbucket.org/trytonspain/python-banknumber#egg=banknumber
