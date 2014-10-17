@@ -36,7 +36,7 @@ six>=1.2.0
 vobject>=0.8.1c
 wsgiref>=0.1.2
 yolk>=0.4.3
-openpyxl>=1.7.0
+openpyxl>=2.1.1
 barcodenumber>=0.1
 vatnumber
 mock
