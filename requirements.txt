@@ -42,6 +42,7 @@ vatnumber
 mock
 html2text
 goocalendar
+emailvalid
 
 
 #nereid
