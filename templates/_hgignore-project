@@ -40,6 +40,7 @@ trytond/
 nereid/
 source-doc/
 public_data/
+node_modules/
 
 # switch to regexp syntax.
 syntax: regexp
