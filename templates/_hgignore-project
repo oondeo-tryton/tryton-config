@@ -26,6 +26,7 @@ README
 ./.pc/
 ./nereid_app/
 ./features/
+./database/
 bin/
 config/
 tasks/
