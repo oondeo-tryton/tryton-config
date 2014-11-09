@@ -43,6 +43,7 @@ mock
 html2text
 goocalendar
 emailvalid
+simpleeval
 
 
 #nereid
