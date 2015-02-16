@@ -47,6 +47,8 @@ html2text
 goocalendar
 emailvalid
 simpleeval
+pyflakes
+flake8
 
 
 #nereid
