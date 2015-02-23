@@ -20,6 +20,7 @@ nose>=1.2.1
 polib>=1.0.2
 psycopg2>=2.4.6
 pydot
+# require freetds-dev
 pymssql
 pyparsing>=1.5.6
 python-dateutil>=2.1
