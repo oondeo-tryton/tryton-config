@@ -68,3 +68,7 @@ xlrd
 # galatea
 fabric
 slug
+
+# multi-process
+uwsgi
+uwsgitop
