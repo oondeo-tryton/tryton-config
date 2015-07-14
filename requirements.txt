@@ -50,7 +50,7 @@ emailvalid
 simpleeval
 pyflakes
 flake8
-
+suds>=0.4
 
 #nereid
 wtforms-recaptcha
