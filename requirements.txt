@@ -52,6 +52,9 @@ pyflakes
 flake8
 suds>=0.4
 
+#For the scenarios
+behave
+
 #nereid
 wtforms-recaptcha
 Flask-Babel
