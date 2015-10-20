@@ -51,6 +51,7 @@ simpleeval
 pyflakes
 flake8
 suds>=0.4
+PyPDF2
 
 #For the scenarios
 behave
