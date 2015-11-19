@@ -42,6 +42,7 @@ nereid/
 source-doc/
 public_data/
 node_modules/
+./attachments/
 
 # switch to regexp syntax.
 syntax: regexp
