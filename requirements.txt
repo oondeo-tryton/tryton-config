@@ -52,6 +52,7 @@ pyflakes
 flake8
 suds>=0.4
 PyPDF2
+cached-property
 
 #For the scenarios
 behave
