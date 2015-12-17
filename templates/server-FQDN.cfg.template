@@ -109,6 +109,8 @@ pidfile = /home/administrator/tryton/trytond.pid
 # File where the server print the logs
 logconf = /home/administrator/tryton/server-logconf.cfg
 
+doc_port = 8100
+
 # Enable verbose mode
 verbose = False
 

@@ -79,6 +79,14 @@ http {
             send_timeout 300s;
         }
     }
+    {% if doc_port %}
+    server {
+        listen {{ doc_port }};
+        location / {
+            root {{ root }}/doc/;
+        }
+    }
+    {% endif %}
 
 	##
 	# Logging Settings
