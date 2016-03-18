@@ -65,11 +65,6 @@ certificate = /home/administrator/cert/server.pem
 # The time in second before a session expires.
 timeout = 3600
 
-# Theserver password uses to authenticate database management from the client.
-# It is encrypted using using the Unix `crypt(3)` routine.
-# python -c 'import getpass,crypt,random,string; print crypt.crypt(getpass.getpass(), "".join(random.sample(string.ascii_letters + string.digits, 8)))'
-super_pwd = aSwbO.nygCYuo
-
 [report]
 # The parameters for `unoconv`.
 #
