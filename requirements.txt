@@ -17,6 +17,7 @@ imaplib2
 jsonrpclib
 lxml>=3.1.0
 nose>=1.2.1
+passwordmeter
 petl
 polib>=1.0.2
 psycopg2>=2.4.6
