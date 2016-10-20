@@ -53,6 +53,7 @@ suds>=0.4
 PyPDF2
 cached-property
 wrapt
+ldap3
 
 #For the scenarios
 behave
@@ -66,9 +67,8 @@ pyaml>=13.12.0
 
 xlrd
 
-#retrofix
--e hg+https://hg@bitbucket.org/trytonspain/python-retrofix#egg=retrofix
--e hg+https://hg@bitbucket.org/trytonspain/python-banknumber#egg=banknumber
+#retrofix / aeat
+retrofix>=0.22
 
 # galatea
 fabric
