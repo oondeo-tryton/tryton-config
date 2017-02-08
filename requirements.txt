@@ -54,6 +54,7 @@ PyPDF2
 cached-property
 wrapt
 ldap3
+bcrypt
 
 #For the scenarios
 behave
