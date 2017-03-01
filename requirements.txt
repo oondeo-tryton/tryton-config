@@ -16,6 +16,7 @@ easyimap>=0.3.3
 imaplib2
 jsonrpclib
 lxml>=3.1.0
+mysql-python  # requires libmysqlclient-dev
 nose>=1.2.1
 passwordmeter
 petl
@@ -53,8 +54,8 @@ suds>=0.4
 PyPDF2
 cached-property
 wrapt
-ldap3
 bcrypt
+langid
 
 #For the scenarios
 behave
@@ -65,12 +66,14 @@ Flask-Babel
 Flask-WTF>=0.9.4
 pyaml>=13.12.0
 
-
 xlrd
 
 #retrofix / aeat
-retrofix>=0.22
+retrofix>=0.23
 
 # galatea
 fabric
 slug
+
+#apm
+faulthandler
